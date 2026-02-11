@@ -1,18 +1,3 @@
 # Act.6-SLB-0619-F-utterAppbar
 
-La imagen
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1238" height="506" alt="image" src="https://github.com/user-attachments/assets/484f5bb1-d2e8-4ae8-a7c8-75e6a25cd4a2" />
